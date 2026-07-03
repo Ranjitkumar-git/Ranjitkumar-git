@@ -3,6 +3,10 @@
 # Hi, I'm Ranjit Kumar Singh 👋
 ### Full-Stack Developer • .NET • Angular
 
+![Hello, Programmer!](https://img.shields.io/badge/Hello%2C_Programmer!-Welcome-orange?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat&label=Profile+views)
+![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ranjit__Kumar__Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-slug)
 [![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat&logo=github)](https://github.com/your-username)
 [![Email](https://img.shields.io/badge/Email-your.email%40gmail.com-red?style=flat&logo=gmail)](mailto:your.email@gmail.com)
@@ -27,13 +31,23 @@ I'm a full-stack developer working across the **.NET + Angular** stack — build
 
 ---
 
+## About Me 🙋‍♂️
+
+- 🚀 I'm currently working on **.NET, Angular Full-Stack Web Apps**
+- 🌱 I'm currently learning **CI/CD Pipelines, Azure DevOps, GitHub Actions, Docker**
+- 💬 Ask me about **.NET, C#, Angular, .NETCore Api,SQL Server, Full-Stack Development**
+- 📫 How to reach me: [ranjit.akweb17@gmail.com](mailto:ranjit.akweb17@gmail.com)
+- ⚡ Fun fact: **Great leaders are not born, they are made through hard work.**
+
+---
+
 ## 🚀 Featured Project — [Project Name]
 
 | | |
 |---|---|
 | 🌐 Live Site | [add link] |
 | 📁 Repository | [add link] |
-| 🛠️ Stack | .NET Core, Angular, SQL Server |
+| 🛠️ Stack | .NET Core, Angular17/18/21, SQL Server |
 
 [1-2 line description — what the project does, e.g. "A full-stack CRUD application demonstrating clean API design with Angular frontend and .NET backend."]
 
@@ -101,12 +115,13 @@ I'm a full-stack developer working across the **.NET + Angular** stack — build
 
 ---
 
-## 📫 Let's Connect
-
-I'm open to collaborating on **full-stack .NET/Angular projects** and learning opportunities.
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-slug)
 [![Email](https://img.shields.io/badge/Send-Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://your-portfolio-link.vercel.app/)
+
+I'm open to collaborating on **full-stack .NET/Angular projects** and learning opportunities.
 
 <sub>Thanks for stopping by — feel free to open an issue or drop a message. Let's build something great.</sub>
 
