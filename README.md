@@ -1,16 +1,22 @@
 <div align="center">
 
 # Hi, I'm Ranjit Kumar Singh 👋
-### Full-Stack Developer • .NET • Angular
+### Full-Stack Developer | .NET Core • Angular • Microservices • Azure Devops
 
-![Hello, Programmer!](https://img.shields.io/badge/Hello%2C_Programmer!-Welcome-orange?style=flat)
+
+[![Dynamic JSON Badge](https://img.shields.io/badge/Experience-4.2+%20Years-blue?style=for-the-badge)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-slug)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ranjit.akweb17@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ranjit_Kumar-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-slug)
+[![GitHub](https://img.shields.io/badge/GitHub-Ranjitkumar-git-black?style=flat&logo=github)](https://github.com/your-username)
+[![Email](https://img.shields.io/badge/Email-ranjit.akweb17%40gmail.com-red?style=flat&logo=gmail)](mailto:your.email@gmail.com)
+
+<!-- Stylish Professional Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&theme=dark" width="100%" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat&label=Profile+views)
 ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ranjit__Kumar__Singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-slug)
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat&logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-your.email%40gmail.com-red?style=flat&logo=gmail)](mailto:your.email@gmail.com)
-
 </div>
 
 ---
@@ -20,9 +26,11 @@
 ```
 Ranjit Kumar Singh — Full-Stack Developer
 
-Focus      : .NET (C#) · Angular · REST APIs · SQL Server
+Experience : 4.2+ Years
+Core Stack : .NET Core (C#) · Angular 17/18/21 · REST/Web APIs · SQL Server
 Learning   : CI/CD Pipelines (Azure DevOps / GitHub Actions)
-Philosophy : Ship clean code. Iterate fast. Document intent.
+Patterns   : SOLID Principles · Design Patterns · Microservices
+Learning     : Azure · CI/CD Pipelines (Azure DevOps / GitHub Actions) · Docker
 Status     : Open to collaboration on full-stack projects
 Location   : India
 ```
@@ -47,7 +55,8 @@ I'm a full-stack developer working across the **.NET + Angular** stack — build
 |---|---|
 | 🌐 Live Site | [add link] |
 | 📁 Repository | [add link] |
-| 🛠️ Stack | .NET Core, Angular17/18/21, SQL Server |
+| 🛠️ Primary Stack | .NET Core MVC/API, Angular17/18/21, SQL Server,MICROSERVICES,Azure Devops |
+| 🛠️ Deployement  | Azure Cloud Container Apps & Azure DevOps CI/CD Pipelines |
 
 [1-2 line description — what the project does, e.g. "A full-stack CRUD application demonstrating clean API design with Angular frontend and .NET backend."]
 
@@ -60,8 +69,8 @@ I'm a full-stack developer working across the **.NET + Angular** stack — build
 ---
 
 ## 🛠️ Tech Stack
-
-**Languages**
+<div align="center">
+Languages
 
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -93,7 +102,7 @@ I'm a full-stack developer working across the **.NET + Angular** stack — build
 
 ![Ranjit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
-
+</div>
 ---
 
 ## 🧭 How I Work
