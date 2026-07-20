@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ranjit Kumar Singh 👋
+# 👋 Hi, I'm <a href="https://linkedin.com/in/your-linkedin-slug" target="_blank">Ranjit Kumar Singh</a>
 ### Full-Stack Developer | .NET Core • Angular • Microservices • Azure Devops
 
 
