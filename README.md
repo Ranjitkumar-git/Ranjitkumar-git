@@ -14,6 +14,9 @@
 
 <!-- Stylish Professional Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&theme=dark" width="100%" />
+<!-- Animated Banner -->
+<img width="1847" height="576" alt="Gemini_Generated_Image_96kg7396kg7396kg" src="https://github.com/user-attachments/assets/6b8e57dd-91b1-4132-87c5-cdcd4f76f9b9" />
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat&label=Profile+views)
 ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=social)
