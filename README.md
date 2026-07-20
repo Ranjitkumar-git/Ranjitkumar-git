@@ -126,14 +126,18 @@ Languages
 
 ---
 
-## 🌐 Connect with me
+## 🌐🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-slug)
-[![Email](https://img.shields.io/badge/Send-Email-red?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ranjit_Kumar-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-slug)
+ | [![Email](https://img.shields.io/badge/Email-ranjit.akweb17%40gmail.com-red?style=flat-square&logo=gmail)](mailto:ranjit.akweb17@gmail.com) |
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://your-portfolio-link.vercel.app/)
 
 I'm open to collaborating on **full-stack .NET/Angular projects** and learning opportunities.
 
 <sub>Thanks for stopping by — feel free to open an issue or drop a message. Let's build something great.</sub>
+
+
+---
 
 </div>
