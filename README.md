@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm <a href="https://linkedin.com/in/your-linkedin-slug" target="_blank">Ranjit Kumar Singh</a>
-### Full-Stack Developer | .NET Core • Angular • Microservices • Azure Devops
+## 🖥️ Full-Stack Developer | .NET Core • Angular • Microservices • Azure Devops
 
 
 [![Dynamic JSON Badge](https://img.shields.io/badge/Experience-4.2+%20Years-blue?style=for-the-badge)](#)
