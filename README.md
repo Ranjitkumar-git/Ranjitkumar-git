@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-ranjit.akweb17%40gmail.com-red?style=flat&logo=gmail)](mailto:your.email@gmail.com)
 
 <!-- Stylish Professional Banner -->
-<img width="1847" height="576" alt="Gemini_Generated_Image_kgbewwkgbewwkgbe" src="https://github.com/user-attachments/assets/96b643e6-8ec2-474a-b8d5-93407a8945c9" />
+<img width="1800" height="500" alt="Gemini_Generated_Image_kgbewwkgbewwkgbe" src="https://github.com/user-attachments/assets/96b643e6-8ec2-474a-b8d5-93407a8945c9" />
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat&label=Profile+views)
